@@ -1,0 +1,4 @@
+interface:
+  display_name: "C500-OPT"
+  short_description: "OJ-compliant, profile-guided C500 optimization"
+  default_prompt: "Use $c500-opt to optimize and package this C500 TileLang kernel as an OJ-compliant submission."
